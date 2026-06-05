@@ -33,6 +33,16 @@ const PROJECTS = [
     live: null,
   },
   {
+    title: "Intelligent Candidate Discovery & Ranking System",
+    period: "Jun 2026",
+    tag: "Python · BM25 · NumPy · rank-bm25 · python-dateutil",
+    color: "#e07a5f",
+    letter: "C",
+    desc: "Four-stage ML pipeline screening 100,000 candidates to a top-100 shortlist for an IR engineer role in ~16s on CPU — well under the 5-minute budget. BM25Okapi retrieval over concatenated career text with 30+ IR-domain keywords, 40-feature weighted scoring across 7 groups, and multiplicative behavioral penalties for recruiter response rate, notice period, and recency decay.",
+    github: "https://github.com/MadhavKamble/redrob-hackathon",
+    live: null,
+  },
+  {
     title: "MIGA — Missing Data Imputation via Genetic Algorithm",
     period: "Jan 2026 — Present",
     tag: "Python · NumPy · SciPy · Scikit-learn · Pandas · Matplotlib",
