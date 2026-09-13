@@ -3,7 +3,7 @@ const EDUCATION = [
     degree: "M.Tech — IT (Data Engineering)",
     school: "IIIT Allahabad",
     dates: "Aug 2025 — Jul 2027",
-    grade: 7.89,
+    grade: 8.46,
     current: true,
     detail: "Specialisation in Data Engineering. Relevant areas: distributed systems, data pipelines, machine learning, backend systems.",
   },
@@ -73,6 +73,30 @@ const CERTIFICATIONS = [
     year: "2024",
     url: "https://www.credly.com/badges/bc9c1318-b2fb-46e8-ba7b-ec6b5b85d7e9/public_url",
   },
+  {
+    name: "Databricks Fundamentals Accreditation",
+    issuer: "Databricks Academy",
+    year: "2026",
+    url: null,
+  },
+  {
+    name: "Understanding Data Engineering",
+    issuer: "DataCamp",
+    year: "2026",
+    url: null,
+  },
+  {
+    name: "Introduction to SQL",
+    issuer: "DataCamp",
+    year: "2026",
+    url: null,
+  },
+  {
+    name: "Intermediate SQL",
+    issuer: "DataCamp",
+    year: "2026",
+    url: null,
+  },
 ];
 
 const ACHIEVEMENTS = [
@@ -89,12 +113,6 @@ const ACHIEVEMENTS = [
     url: "https://www.codechef.com/users/madhav_kamble",
   },
   {
-    name: "GATE 2025 Qualified",
-    issuer: "Computer Science & Information Technology",
-    year: "2025",
-    url: null,
-  },
-  {
     name: "Runner-up — Sinhgad Hackathon",
     issuer: "Sinhgad Institutes",
     year: "2023",
@@ -107,9 +125,15 @@ const ACHIEVEMENTS = [
     url: null,
   },
   {
-    name: "Runner-up — Front-End Dev Competition",
-    issuer: "Sinhgad Institutes",
-    year: "2023",
+    name: "600+ DSA problems solved",
+    issuer: "Across LeetCode, CodeChef & other platforms",
+    year: "Ongoing",
+    url: null,
+  },
+  {
+    name: "Extended Placement Team Member",
+    issuer: "IIIT Allahabad",
+    year: "2025 — Present",
     url: null,
   },
 ];

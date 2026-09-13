@@ -40,9 +40,8 @@ export default function AboutColumn() {
 
       <p className="sub">
         B.Tech CS grad from SKNSCOE Pandharpur, now pursuing M.Tech IT (Data
-        Engineering) at IIIT Allahabad. GATE 2025 qualified, three-time
-        hackathon runner-up, and full-stack developer who likes shipping things
-        that actually work.
+        Engineering) at IIIT Allahabad. Two-time hackathon runner-up and
+        full-stack developer who likes shipping things that actually work.
       </p>
 
       <div className="btn-row" style={{ flexWrap: "wrap" }}>
@@ -89,14 +88,15 @@ export default function AboutColumn() {
           <span className="mono">Focus</span>
           <span className="val">
             Full-stack development with React &amp; Node.js, and applying my
-            M.Tech data engineering foundation to build data-aware products.
+            M.Tech data engineering foundation to build AI-assisted,
+            data-aware products.
           </span>
         </div>
         <div className="meta-row">
           <span className="mono">Stack</span>
           <span className="val">
-            JavaScript, TypeScript, Python, React, Next.js, Node.js, Express,
-            PostgreSQL, Tailwind, Docker.
+            JavaScript, TypeScript, Python, React, Next.js, FastAPI,
+            PostgreSQL, OpenAI/Groq APIs, RAG, Tailwind, Docker.
           </span>
         </div>
         <div className="meta-row">
@@ -109,8 +109,8 @@ export default function AboutColumn() {
         <div className="meta-row">
           <span className="mono">Superpower</span>
           <span className="val">
-            I stay calm under pressure. Three hackathon runner-up finishes and
-            a GATE crack in the same year say so.
+            I stay calm under pressure — two hackathon runner-up finishes and
+            600+ DSA problems solved say so.
           </span>
         </div>
         <div className="meta-row">

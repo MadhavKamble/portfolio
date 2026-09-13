@@ -1,11 +1,11 @@
 const BUILDING = [
   {
-    name: "MIGA — Thesis",
-    desc: "Open-source genetic-algorithm imputer. Defence done; extending with adaptive mutation scheduling and kurtosis-augmented fitness.",
+    name: "Last-Mile Routing Thesis",
+    desc: "Enhancing a genetic algorithm with explainable AI for last-mile delivery routing — bridging evolutionary optimisation with XAI for better convergence and transparency.",
   },
   {
-    name: "Ride-Sharing Analytics Platform",
-    desc: "End-to-end streaming pipeline on Kafka + PySpark with Delta Lake medallion architecture, XGBoost surge model, and a live Streamlit dashboard.",
+    name: "ChurnLens",
+    desc: "Explainable churn prediction pipeline with SHAP attribution and a GenAI layer that turns model output into plain-English retention recommendations.",
   },
   {
     name: "This Portfolio",
@@ -40,10 +40,11 @@ export default function LearningColumn() {
           <h3>What I&apos;m up <em>to</em></h3>
         </div>
         <p className="now-text">
-          Wrapping up my M.Tech thesis on missing data imputation, grinding DSA
-          every morning, and slowly building a SaaS project on the side.
+          Working on my second M.Tech thesis — XAI-enhanced genetic algorithms
+          for last-mile routing — while shipping small AI-assisted product
+          builds (ChurnLens, ClaimSense) and grinding DSA every morning.
         </p>
-        <p className="now-text muted">Last updated · May 2026</p>
+        <p className="now-text muted">Last updated · Sep 2026</p>
       </section>
 
       <div className="divider" />

@@ -4,32 +4,32 @@ const SKILL_GROUPS = [
     skills: ["Python", "JavaScript", "TypeScript", "Java", "C", "C++", "SQL", "HTML", "CSS"],
   },
   {
-    label: "Web Frameworks",
-    skills: ["React.js", "Next.js", "Node.js", "Express.js", "Tailwind CSS"],
-  },
-  {
-    label: "Data & ML",
-    skills: ["NumPy", "Pandas", "Scikit-learn", "XGBoost", "LightGBM", "CatBoost", "Matplotlib", "Seaborn", "Hadoop"],
-  },
-  {
-    label: "Data Engineering",
-    skills: ["Apache Kafka", "PySpark", "Delta Lake", "Apache Airflow", "MLflow", "Redis"],
+    label: "Frameworks",
+    skills: ["React.js (React 19)", "Next.js", "Node.js", "Express", "FastAPI", "Streamlit", "Tailwind CSS", "Vite"],
   },
   {
     label: "Databases",
-    skills: ["MongoDB", "PostgreSQL", "MySQL"],
+    skills: ["MongoDB", "PostgreSQL", "pgvector", "SQLite", "ChromaDB", "SQL"],
+  },
+  {
+    label: "Data & ML",
+    skills: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "XGBoost", "LightGBM", "CatBoost", "SHAP", "SciPy", "Pydantic", "Faker", "Hadoop"],
+  },
+  {
+    label: "LLM & GenAI",
+    skills: ["OpenAI API", "Groq API (Llama 3.3 70B)", "Ollama", "RAG", "Multi-Agent Orchestration", "Vector Embeddings", "Structured Outputs"],
   },
   {
     label: "Tools & Platforms",
-    skills: ["Git", "GitHub", "Docker", "Linux", "VS Code"],
+    skills: ["Git", "GitHub", "Docker", "Linux", "VS Code", "Claude Code", "Databricks", "pytest", "PyYAML"],
   },
   {
     label: "CS Fundamentals",
-    skills: ["DSA", "OS", "CN", "OOP", "DBMS", "ML", "Big Data", "Data Visualisation"],
+    skills: ["DSA", "OS", "CN", "DBMS", "Machine Learning", "Big Data Analytics", "Data Visualisation"],
   },
   {
     label: "Currently Learning",
-    skills: ["System Design (LLD & HLD)", "Data Science (ML / DL / GenAI)", "Big Data Engineering", "Full-Stack Depth"],
+    skills: ["System Design (LLD & HLD)", "Agentic AI & GenAI", "Big Data Engineering", "Full-Stack Depth"],
   },
 ];
 
